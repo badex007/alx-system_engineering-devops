@@ -1,1 +1,1 @@
-shell task solution
+This project contains solution to shell redirection 
